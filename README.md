@@ -1,6 +1,6 @@
 # SHL Assessment Conversational Agent
 
-A stateless conversational agent that recommends SHL assessments based on user prompts. Built with FastAPI, Gemini 1.5 Flash, and TF-IDF retrieval.
+A stateless conversational agent that recommends SHL assessments based on user prompts. Built with FastAPI, Groq(Llama-3.3-70B), and TF-IDF retrieval.
 
 ## Endpoints
 
